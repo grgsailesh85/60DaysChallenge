@@ -1,0 +1,201 @@
+Responder_id,LanguagesWorkedWith
+1,Python;Flask;AWS;Java
+2,Python;Java;Bootstrap;Dart;JavaScript
+3,Python;C++;JavaScript
+4,Python;R;Firebase;Excel;SQLite;JavaScript
+5,Python;MySQL;Power BI;JavaScript
+6,Python;PostgreSQL;Angular;MySQL;OpenCV;GCP
+7,Express;C#;MySQL
+8,Python;.NET;GCP;MongoDB;Spring;PyTorch
+9,Python;Angular;Scala;NumPy;Kotlin;JavaScript
+10,Python;Tailwind CSS;.NET;Next.js;Git;Spring Boot
+11,Python;FastAPI;JavaScript
+12,Python;TypeScript;Azure;C;TensorFlow
+13,Python;Docker;Node.js;Oracle
+14,Scikit-learn;C++;JavaScript
+15,Java;Git
+16,Python;Kubernetes;Django;Flutter;Azure
+17,Python;Redis;Go;.NET
+18,Python;Scala;Flask
+19,Python;Spring Boot;JavaScript
+20,Python;Spring;Excel
+21,Python;Flutter;Django;R;JavaScript
+22,Azure;R;Python;JavaScript
+23,Kotlin;HTML/CSS;React;Python;PHP;FastAPI
+24,Python;Vue.js;Rust;Docker;Bootstrap;Redis
+25,Python;Excel;PyTorch;GCP;Pandas;JavaScript
+26,Python;ASP.NET;Firebase;Flask;Java
+27,Python;Go;Next.js;Oracle;Java
+28,Python;Express;Redis;JavaScript;C;Dart
+29,Python;HTML/CSS;Node.js;JavaScript
+30,Power BI;.NET;JavaScript
+31,Python;C++;PHP;C#;Linux;JavaScript
+32,Tailwind CSS;JavaScript;Dart
+33,Python;PHP;Docker;MongoDB;JavaScript;TensorFlow
+34,Python;Power BI;JavaScript
+35,Python;PyTorch;R
+36,Firebase;R;Redis;Pandas
+37,Python;Scala;OpenCV
+38,Tailwind CSS;.NET;Node.js
+39,Python;HTML/CSS;Swift;Docker;JavaScript
+40,Python;C++;R;C#;JavaScript
+41,Python;Redis;React Native;JavaScript
+42,Python;AWS;C++;Scikit-learn
+43,Python;Flutter;Kotlin
+44,Python;Git;JavaScript
+45,Python;Ruby;JavaScript
+46,SQLite;React Native;Laravel;JavaScript
+47,Python;Azure;Node.js;PHP;MySQL;JavaScript
+48,Tailwind CSS;Linux;JavaScript
+49,Python;Excel;Dart;JavaScript
+50,Python;TensorFlow;SQLite;Vue.js;HTML/CSS;JavaScript
+51,React Native;Laravel;Azure;SQLite
+52,Rust;MongoDB;PHP;Tailwind CSS;Bootstrap;JavaScript
+53,Oracle;Python;PyTorch
+54,PHP;ASP.NET;Redis
+55,GCP;Tailwind CSS;MySQL;ASP.NET;JavaScript
+56,Python;Scala;Swift;SQL;TypeScript;JavaScript
+57,TensorFlow;React Native;JavaScript
+58,Python;Oracle;React Native;Swift;Docker;SQL
+59,Bootstrap;Scala;Docker;Tailwind CSS;Flutter
+60,Python;Swift;Scikit-learn;Spring Boot;Rust;JavaScript
+61,Python;Scala;JavaScript
+62,Python;Go;React Native;PyTorch
+63,PHP;HTML/CSS;Flutter;Rust;JavaScript
+64,Python;Flutter
+65,Ruby;Kubernetes;Spring;JavaScript
+66,Python;Node.js;Vue.js;C++;Git;JavaScript
+67,Python;Kubernetes;JavaScript;Django;Next.js
+68,Python;C;Go;NumPy
+69,Python;SQL
+70,TensorFlow;Rust;OpenCV;Spring
+71,Python;PHP;MongoDB;Bootstrap
+72,SQL;Java;JavaScript
+73,Python;JavaScript
+74,Python;Oracle;Power BI;R
+75,Python;Next.js;MySQL;FastAPI;SQL
+76,Python;Kubernetes;JavaScript
+77,Python;Java;Kotlin;JavaScript
+78,Python;TensorFlow;Dart;React
+79,Python;Pandas;JavaScript;HTML/CSS
+80,Python;Bootstrap;JavaScript
+81,Python;Spring Boot;C#;Azure;OpenCV
+82,Python;Flutter;Flask;Bootstrap;Angular;JavaScript
+83,Scikit-learn;Flutter;Kubernetes;JavaScript
+84,Java;Scikit-learn;Rust;Python;JavaScript
+85,Python;Ruby;Java;C++;JavaScript
+86,Python;React;Oracle;Scala;Docker;JavaScript
+87,Spring Boot;Python;HTML/CSS;Express
+88,Python;Scala;TypeScript;Angular;Dart;JavaScript
+89,Python;SQL;JavaScript
+90,PyTorch;Python;C++;HTML/CSS;OpenCV;JavaScript
+91,Python;Flask;JavaScript;Angular;Power BI;Firebase
+92,Tailwind CSS;Power BI;TensorFlow;PHP;Azure;Kubernetes
+93,Git;.NET;PHP;React
+94,OpenCV;Scikit-learn
+95,Git;Docker;Pandas;Bootstrap;Rust
+96,Python;OpenCV;Pandas;JavaScript;Flutter;GCP
+97,Python;JavaScript;TypeScript
+98,Python;Django;Scikit-learn;Spring Boot
+99,GCP;Scala;.NET;HTML/CSS;Python;Laravel
+100,React Native;MongoDB;C++;Azure;Tailwind CSS;JavaScript
+101,Python;HTML/CSS
+102,Python;AWS;Laravel;JavaScript
+103,Python;React;PyTorch;TypeScript;Redis;JavaScript
+104,Python;Next.js;HTML/CSS;AWS;Linux;Docker
+105,Python;Java
+106,Python;Dart;JavaScript
+107,React;Laravel;Flutter;Excel;PyTorch;Go
+108,Python;ASP.NET;JavaScript;React
+109,Python;SQL;Django;Dart;Power BI;JavaScript
+110,Python;Express;Rust;Oracle;OpenCV;Firebase
+111,Python;.NET;React Native;Flutter;JavaScript
+112,Python;GCP;JavaScript
+113,Python;Node.js;Django
+114,Python;TensorFlow;JavaScript
+115,Kubernetes;Python;React Native
+116,Express;C;Flask;Django
+117,Python;TensorFlow;SQL;Power BI;JavaScript
+118,Python;PHP;Scala;SQL;JavaScript
+119,NumPy;Spring;Flutter;JavaScript
+120,Python;MySQL;Dart;Git;C++
+121,Python;TensorFlow;Rust;AWS;Excel;JavaScript
+122,Python;Ruby;ASP.NET;FastAPI;Next.js;React
+123,Python;AWS;Scala;Angular
+124,Python;AWS;JavaScript
+125,Python;R;Spring Boot;Next.js;TensorFlow;JavaScript
+126,Python;C++;Kotlin;JavaScript
+127,Python;HTML/CSS;Pandas
+128,Python;FastAPI;Linux;Tailwind CSS;Dart;JavaScript
+129,Python;SQL;JavaScript
+130,Python;Firebase;NumPy;Power BI;Dart;JavaScript
+131,AWS;Spring Boot;Spring;Angular;Power BI
+132,TypeScript;Spring;Kubernetes
+133,.NET;Python;C;Flask;OpenCV;Tailwind CSS
+134,Python;NumPy;C#;R;PHP
+135,OpenCV;Git
+136,C++;MySQL;PyTorch;TypeScript;Python
+137,PostgreSQL;TypeScript;AWS
+138,Tailwind CSS;Firebase;Spring;Docker;JavaScript
+139,Python;SQLite;Swift;Django
+140,Python;MongoDB;JavaScript
+141,Python;Vue.js;AWS;Scikit-learn;Flutter
+142,Python;JavaScript;FastAPI;Kubernetes;AWS;Angular
+143,Python;Flutter;GCP;JavaScript
+144,Python;Spring;Express;JavaScript
+145,Python;FastAPI;Express;GCP;JavaScript
+146,Python;Power BI;Bootstrap;C
+147,Python;OpenCV;Swift;R;JavaScript
+148,C#;Redis;.NET;Kotlin;JavaScript
+149,Oracle;PHP;JavaScript
+150,Python;PHP
+151,Flask;Spring Boot;React Native;JavaScript
+152,Python;Ruby;JavaScript
+153,Python;Laravel;TypeScript;Angular;Azure;JavaScript
+154,Spring Boot;Ruby;C#;Python;JavaScript
+155,Node.js;FastAPI;JavaScript
+156,Django;Node.js;PyTorch
+157,Python;Java;Kubernetes;ASP.NET;Swift
+158,Vue.js;Express;Linux;JavaScript
+159,Python;Pandas;Firebase;PyTorch;Flask;JavaScript
+160,Python;Java
+161,Python;Express;SQL;React Native;Redis;TypeScript
+162,SQL;Angular;Python;Git
+163,Python;OpenCV;JavaScript
+164,PyTorch;Django;NumPy;HTML/CSS;Spring;JavaScript
+165,Kotlin;Python;Pandas;Linux;Angular
+166,Oracle;Scala;Vue.js;JavaScript
+167,Python;Bootstrap;Swift;Flask;TensorFlow;JavaScript
+168,Python;MySQL;JavaScript
+169,Python;C#;C;HTML/CSS;Redis;JavaScript
+170,Python;Spring Boot;Kotlin;R;Rust
+171,Linux;MongoDB;Power BI
+172,Python;SQL;PostgreSQL;Express;JavaScript
+173,Scala;Kotlin;PHP;React;Flutter;JavaScript
+174,Flask;HTML/CSS
+175,Python;Pandas;C#
+176,Python;ASP.NET
+177,Python;Spring Boot;Express;JavaScript
+178,Python;Swift
+179,C;Express;Bootstrap;JavaScript
+180,PyTorch;Azure;Python;C#
+181,Python;Dart;TypeScript;Express;Next.js;PHP
+182,Python;Git;JavaScript
+183,Python;Vue.js;JavaScript
+184,Python;C;Dart;TypeScript;NumPy;JavaScript
+185,Python;Flask;JavaScript
+186,Python;AWS;Ruby;Flask;Docker;JavaScript
+187,Python;Java;Angular;Linux;JavaScript
+188,Python;Excel;PyTorch;Pandas;Express;JavaScript
+189,Dart;Python;Spring;React Native;Ruby;JavaScript
+190,Flask;PostgreSQL;JavaScript
+191,Rust;Python;Java
+192,Python;PostgreSQL;Redis;Express;Linux;JavaScript
+193,Python;Tailwind CSS;C;C#
+194,Angular;Rust;Scikit-learn
+195,Python;Java;Oracle;Firebase;Django
+196,Python;NumPy;Power BI;JavaScript
+197,Python;ASP.NET;Kotlin;JavaScript
+198,Ruby;Django;Node.js;Go;PHP;Scala
+199,TypeScript;Flutter;MySQL
+200,Python;Django;Oracle;Laravel
